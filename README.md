@@ -1,3 +1,6 @@
+This repo is no longer maintained.
+Please see [AnaCal](https://github.com/mr-superonion/AnaCal) for analytical shear estimator
+
 # `FPFS`: Fourier Power Function Shaplets (A fast, accurate shear estimator)
 ----
 [![docs](https://readthedocs.org/projects/fpfs/badge/?version=latest)](https://fpfs.readthedocs.io/en/latest/?badge=latest)
